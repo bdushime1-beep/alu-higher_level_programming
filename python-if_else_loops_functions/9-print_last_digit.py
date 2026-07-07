@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""Module that prints the last digit of a number."""
-
-
 def print_last_digit(number):
-    """Print and return the last digit of number."""
-    last_digit = abs(number) % 10
-    print("{:d}".format(last_digit), end="")
-    return last_digit
+    if number > 0:
+        last = number % 10
+    else:
+        last = (number * -1) % 10
+    print("{:d}".format(last), end="")
+    return(last)

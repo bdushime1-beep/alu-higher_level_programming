@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""Module that prints numbers 1 to 100 with FizzBuzz rules."""
-
-
 def fizzbuzz():
-    """Print numbers 1 to 100, replacing multiples of 3/5 with words."""
     for i in range(1, 101):
         if i % 15 == 0:
             print("FizzBuzz", end=" ")
