@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x00. Python - Hello, World
 
 ## Description
@@ -32,5 +33,10 @@ It is part of the ALU Higher Level Programming curriculum.
 | 2 | `2-print.py` | Prints `"Programming is like building a multilingual puzzle` |
 | 3 | `3-print_number.py` | Prints an integer followed by "Battery street" using f-strings |
 | 4 | `4-print_float.py` | Prints a float with 2 digits of precision using f-strings |
-| 5 | `5-print_string.py` | Prints a string 3 times, then its first 9 characters |
+| 5 | `5-print_string.py` | Prints a string 3 times, then its first 9 charac:;ters |
 | 6 | `6-concat.py` | Concatenates two strings to print "Welcome to Holberton
+=======
+# Python - Hello, World
+
+This folder contains beginner Python and shell scripts for the "Hello, World" assignment.
+>>>>>>> e3091612788cf176bbbb4f51312387ff586c4bbf
